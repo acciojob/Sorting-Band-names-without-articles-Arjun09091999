@@ -1,6 +1,6 @@
 //your code here
 
-let touristSpots = ['Virupaksha Temple', 'Victoria Memorial', 'The Tajmahal'];
+let touristSpots = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 let obj={};
 function check(str){
 if(str[0]=='T' && str[1]=='h' && str[2]=='e' && str[3]==' '){
